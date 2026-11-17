@@ -1,5 +1,4 @@
 # Week 12
-# Week 11
 ## Silas: Task 1 (changed sprite and weapon position with movement)
 ## Video Link for Task 1: https://youtu.be/Nx7xD9ZBeY0
 
